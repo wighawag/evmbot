@@ -1,0 +1,3 @@
+[submodule "contracts/abi2hx"]
+	path = contracts/abi2hx
+	url = git@github.com:etherplay/abi2hx.git
