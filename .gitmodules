@@ -1,3 +1,18 @@
 [submodule "contracts/abi2hx"]
 	path = contracts/abi2hx
 	url = git@github.com:etherplay/abi2hx.git
+[submodule "lib/web3"]
+	path = lib/web3
+	url = git@github.com:etherplay/web3.hx.git
+[submodule "lib/providerengine"]
+	path = lib/providerengine
+	url = git@github.com:etherplay/providerengine.hx.git
+[submodule "lib/ethjs"]
+	path = lib/ethjs
+	url = git@github.com:etherplay/ethjs.hx.git
+[submodule "lib/BN"]
+	path = lib/BN
+	url = git@github.com:etherplay/BN.hx.git
+[submodule "web3cmd"]
+	path = web3cmd
+	url = git@github.com:etherplay/web3cmd.git

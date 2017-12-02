@@ -1,0 +1,15 @@
+-main TestMain
+-js build/test.js
+-cp src
+-cp ../lib/web3/src
+-cp ../web3cmd/src
+-cp ../contracts/build
+
+-lib hxnodejs:4.0.9
+
+-cp ../lib/BN/src
+-cp ../lib/providerengine/src
+
+-cp ../lib/ethjs/src
+
+-D web3_allow_deploy
